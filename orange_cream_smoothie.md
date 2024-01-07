@@ -1,3 +1,4 @@
+# Orange Cream Smoothie
 - 1 cup orange juice
 - 1/4 cup yogurt
 - sugar

@@ -1,6 +1,7 @@
-- 2 cups powdered milk
-- 1 cup cocoa powder (more if desired)
-- 1 1/2 cup powdered sugar
+# Hot Chocolate Mix
+- 1 cup powdered milk (optional)
+- 1 cup <u>dutch processed</u> cocoa powder (more if desired)
+- 2 cup powdered sugar
 - 1 Tbsp salt
 
 1. Mix all ingredients together

@@ -1,3 +1,4 @@
+## Baking Soda Potatoes
 - 4 lbs russet or yukon gold potatoes
 - 2 Tbsp salt
 - 1/2 tsp baking soda

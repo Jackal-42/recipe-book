@@ -1,3 +1,4 @@
+# Potato Seasoning
 - 1/4 cup salt
 - 1 tsp cumin
 - 2 tsp chili powder
