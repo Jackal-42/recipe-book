@@ -1,3 +1,7 @@
+---
+share: "true"
+---
+
 # Taco Seasoning
 - 1 cup chili powder
 - 1/2 cup cumin

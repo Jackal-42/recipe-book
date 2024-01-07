@@ -1,3 +1,7 @@
+---
+share: "true"
+---
+
 # Sweet Potatoes
 - sweet potatoes
 - paprika

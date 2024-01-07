@@ -1,3 +1,7 @@
+---
+share: "true"
+---
+
 # Chocolate Cherry Cake
 #### Cake
 - ~15.25 oz chocolate cake mix

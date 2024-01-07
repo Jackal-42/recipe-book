@@ -1,4 +1,8 @@
-## Baked Beans
+---
+share: "true"
+---
+
+# Baked Beans
 - 28 oz vegetarian baked beans
 - 6 strips bacon
 - 1 small onion
