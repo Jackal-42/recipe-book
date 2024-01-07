@@ -1,3 +1,7 @@
+---
+share: "true"
+---
+
 # Hot Chocolate Mix
 - 1 cup powdered milk (optional)
 - 1 cup <u>dutch processed</u> cocoa powder (more if desired)
