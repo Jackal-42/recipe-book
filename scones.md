@@ -1,3 +1,7 @@
+---
+share: "true"
+---
+
 # Scones
 - 2 cups flour
 - 5 Tbsp granulated sugar
