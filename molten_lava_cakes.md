@@ -1,3 +1,7 @@
+---
+share: "true"
+---
+
 # Molten Lava Cakes
 - 1 cup butter
 - 2/3 cup granulated sugar
