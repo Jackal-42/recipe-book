@@ -2,7 +2,9 @@
 share: "true"
 ---
 
-# Perfect Queso
+# (Im)perfect Queso
+Just wait until I get my hands on some sodium citrate. Then you'll see. *They'll all see!*
+
 - 1 cup pepper jack cheese
 - 1/4 cup milk
 - 1/2 tsp cornstarch
