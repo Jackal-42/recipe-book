@@ -6,6 +6,7 @@ share: "true"
 - [[baked_beans|baked_beans]]<br>
 - [[baking_soda_potatoes|baking_soda_potatoes]]<br>
 - [[chicken_and_dumplings|chicken_and_dumplings]]<br>
+- [[chili_powder|chili_powder]]<br>
 - [[chocolate_cherry_cake|chocolate_cherry_cake]]<br>
 - [[cookie_dough_balls|cookie_dough_balls]]<br>
 - [[hot_chocolate_mix|hot_chocolate_mix]]<br>
