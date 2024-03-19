@@ -3,7 +3,6 @@ share: "true"
 ---
 
 # Favorites
-These recipes have been made many times by people other than me
 - [[baked_beans|baked_beans]]<br>
 - [[baking_soda_potatoes|baking_soda_potatoes]]<br>
 - [[chicken_and_dumplings|chicken_and_dumplings]]<br>
@@ -24,7 +23,7 @@ These recipes have been made many times by people other than me
 - [[tomato_soup|tomato_soup]]<br>
 
 # Experimental
-These recipes have been made a few times and mostly by me. Try at your own risk!
+These recipes have been made only a few times and mostly by me. Try at your own risk!
 - [[hot_chocolate_mix|hot_chocolate_mix]]<br>
 - [[orange_cream_smoothie|orange_cream_smoothie]]<br>
 - [[perfect_queso|perfect_queso]]<br>
