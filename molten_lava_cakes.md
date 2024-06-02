@@ -11,7 +11,7 @@ share: "true"
 - 2 cups melted chocolate
 - powdered sugar
 
-1. Preheat oven to 400 ℉.
+1. Preheat oven to 400F.
 2. Butter a muffin tin, dust with excess granulated sugar
 3. Beat butter and sugar with an electric mixer until fluffy
 4. Add eggs one at a time while beating
