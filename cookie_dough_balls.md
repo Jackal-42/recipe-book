@@ -12,7 +12,7 @@ share: "true"
 - 1 tsp vanilla extract
 - 1/2 cup mini chocolate chips
 
-1. Spread flour on a baking sheet, put in oven at 350 °F for 7 minutes
+1. Spread flour on a baking sheet, put in oven at 350F for 7 minutes
 2. Sift flour into a bowl, set aside. Don't wash the baking sheet yet.
 3. Add butter, brown sugar, granulated sugar, and salt to a mixing bowl. Mix on medium speed three minutes
 4. Mix in milk and vanilla extract

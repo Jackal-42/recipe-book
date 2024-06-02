@@ -12,7 +12,7 @@ share: "true"
 - 2/3 cup plus 1 Tbsp half-and-half
 - 1/2 cup cranberries
 
-1. Preheat oven to 425 ℉
+1. Preheat oven to 425F
 2. Whisk together flour, sugar, baking powder, and salt.
 3. Cut in butter until mixture resembles coarse crumbs.
 4. Stir in the 2/3 cup half and half and fold in cranberries.

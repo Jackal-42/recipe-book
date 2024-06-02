@@ -14,7 +14,7 @@ share: "true"
 - 3 cups chopped apples
 - 6 oz (3/4 cup) butterscotch chips
 
-1. Preheat oven to 350 ℉.
+1. Preheat oven to 350F.
 2. In a small bowl, cream together oil, eggs, and sugar.
 3. In a large bowl, whisk together flour, baking powder & soda, salt, and cinnamon.
 4. Fold wet ingredients into dry ingredients.

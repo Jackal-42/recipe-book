@@ -13,7 +13,7 @@ share: "true"
 - 2 Tbsp molasses
 - 1 Tbsp worcestershire sauce
 
-1. Preheat oven to 350.
+1. Preheat oven to 350F.
 2. Dice bacon, cook until crispy.
 3. Add diced onion and garlic to the pan with the bacon. Sautee until fragrant.
 4. Add everything except for the beans. Simmer for 1 minute.

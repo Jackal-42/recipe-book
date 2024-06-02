@@ -12,7 +12,7 @@ share: "true"
 - Parsley (garnish)
 
 1. Peel potatoes and cut into large chunks, 2-3 inches across
-2. Preheat oven to 450 °F
+2. Preheat oven to 450F
 3. Heat 2 quarts of water to a boil in a large pot. Add salt and baking soda
 4. Boil potatoes until a fork can be easily inserted (about 10 minutes)
 	- While the potatoes boil, combine oil, minced garlic, rosemary, and a grind of pepper. Sautee.
