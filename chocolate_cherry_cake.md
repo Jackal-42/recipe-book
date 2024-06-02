@@ -10,7 +10,7 @@ share: "true"
 - 1 tsp almond extract
 - frosting (below)
 
-1. Preheat oven to 350 ℉.
+1. Preheat oven to 350F.
 2. Combine all ingredients, blend well.
 3. Pour into a greased and floured 9 x 13 pan.
 4. Bake for 40 minutes or until an inserted toothpick comes out clean. As the cake bakes, prepare the frosting.
