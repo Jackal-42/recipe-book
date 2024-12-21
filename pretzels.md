@@ -2,6 +2,7 @@
 share: "true"
 ---
 
+# Pretzels
 PRETZELS
 - 1 cup warm water
 - 2 Tbsp powdered sugar
@@ -9,13 +10,16 @@ PRETZELS
 - 1 tsp kosher salt
 - 2 Tbsp butter (melted)
 - 3 cups flour
+
 WASH
 - 2/3 cup baking soda
 - 3 cups hot water
+
 GARNISH
 - 1 egg
 - coarse salt
 - butter
+
 HONEY MUSTARD
 - 3 Tbsp mayonnaise
 - 3 Tbsp honey

@@ -3,7 +3,7 @@ share: "true"
 ---
 
 # Chocolate Cherry Cake
-#### Cake
+CAKE
 - ~15.25 oz chocolate cake mix
 - ~12 oz cherry pie filling
 - 2 eggs
@@ -15,7 +15,8 @@ share: "true"
 3. Pour into a greased and floured 9 x 13 pan.
 4. Bake for 40 minutes or until an inserted toothpick comes out clean. As the cake bakes, prepare the frosting.
 5. Spread with frosting.
-#### Frosting
+
+FROSTING
 - 1 cup granulated sugar
 - 1/4 cup plus 1 Tbsp butter
 - 1/4 cup milk
