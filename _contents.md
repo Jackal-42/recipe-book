@@ -20,6 +20,7 @@ share: "true"
 - [[penuche|penuche]]<br>
 - [[pizza_dough|pizza_dough]]<br>
 - [[potato_seasoning|potato_seasoning]]<br>
+- [[pretzels|pretzels]]<br>
 - [[scones|scones]]<br>
 - [[sweet_potatoes|sweet_potatoes]]<br>
 - [[taco_seasoning|taco_seasoning]]<br>
