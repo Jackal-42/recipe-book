@@ -11,7 +11,6 @@ share: "true"
 - 1 Tbsp sugar
 - 1 egg
 - Splash of vanilla extract
-- 1 1/4 cup milk
 
 1. Whisk flour, baking powder, and salt together in a bowl.
 2. Soften butter in microwave until it is halfway liquified.
