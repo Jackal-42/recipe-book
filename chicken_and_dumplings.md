@@ -4,7 +4,7 @@ share: "true"
 
 
 # Chicken And Dumplings
-#### Broth
+BROTH
 - 6 tbsp butter
 - 1 cup chopped onion
 - 1 cup chopped carrots
@@ -25,7 +25,8 @@ share: "true"
 5. Add milk and chicken stock while stirring to ensure proper incorporation. Bring to a boil.
 6. Remove chicken and shred, then add back in.
 7. Add thyme, black pepper, and salt. Let the broth simmer as you make the dumplings.
-#### Dumplings
+
+DUMPLINGS
 - 2 cups flour
 - 4 tsp baking powder
 - 1 tsp pepper
