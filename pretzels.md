@@ -3,7 +3,7 @@ share: "true"
 ---
 
 # Pretzels
-PRETZELS
+DOUGH
 - 1 cup warm water
 - 2 Tbsp powdered sugar
 - 2 1/4 tsp dry yeast
